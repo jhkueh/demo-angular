@@ -1,0 +1,21 @@
+.container, .container .row  {
+    height: 100%;
+}
+
+form, .result {
+    padding: 3rem;
+    border: #ccc solid 1px;
+}
+
+@media (max-width: 575.98px) {
+    form, .result {
+        padding: 1rem;
+    }
+}
+
+.invalid-input {
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    color: #dc3545;
+}
