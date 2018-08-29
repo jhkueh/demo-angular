@@ -1,10 +1,14 @@
-# DemoAngular
+# Angular 6 Demo App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+### Development server (HMR mode)
+
+Run `npm run hmr` for a Hot Module Replacement (HMR) dev server.
 
 ## Code scaffolding
 
